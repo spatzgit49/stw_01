@@ -1,0 +1,5 @@
+{
+"name":"s patra",
+    "age":23,
+    "isStudent":true, // here if , is given in last line it gives error
+}
