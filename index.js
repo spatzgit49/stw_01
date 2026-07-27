@@ -30,7 +30,11 @@ console.log("your name is:",input)
 console.log(typeof arr)
 const obj={
     name:"s patra",
+<<<<<<< HEAD
     age:75,
+=======
+    age:26,
+>>>>>>> 94684e21590ed12af77d4382562b51bd3a97bd2b
     isStudent:true    // here comma may or may not be given in last line of obj unlike json wher comma should be avoided
 }
 console.log(typeof obj==typeof arr)
